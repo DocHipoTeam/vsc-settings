@@ -17,3 +17,5 @@
 - Make sure to always disable "Format On Save"
 - Make "Prettier - Code formatter" your "Default Formatter"
 - Make sure to keep "Tab Size" as 4
+- Ubuntu developers are requested to use "LF"
+- Windows developers are requested to use "CRLF"
