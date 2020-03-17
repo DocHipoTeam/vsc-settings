@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": -1,
+    "workbench.startupEditor": "newUntitledFile",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4
+}
