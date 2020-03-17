@@ -6,7 +6,8 @@
 1) ESLint
 2) Prettier - Code formatter
 3) Bracket Pair Colorizer
-4) Python
+4) GitLens
+5) Python
 
 ###### B) Optional Plugins -
 1) Material Icon Theme
